@@ -1,4 +1,4 @@
-# Project Assignment
+# Project 1 Assignment
 This is an **individual assignment**.
 
 **Due: Sunday, 9/28/2025 @ 11:59PM**
